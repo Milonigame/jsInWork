@@ -23,7 +23,6 @@ alex.hello();
 console.log(ivan);
 console.log(alex);
 
-//hjgh
 
 
 
